@@ -1,0 +1,48 @@
+.logo{
+	height: 50px;
+}
+
+.logo:hover{
+	height: 45px;
+	margin: 2.5px;
+	transition: all 0.01s;
+}
+
+.button_block{
+	position: absolute;
+	right: 120px;
+}
+
+.info h2{
+	font-family:Calibri;
+	font-weight: bold;
+}
+
+.info p{
+	font-family:Calibri;
+	font-size: 18px;	
+	margin-bottom: 30px;
+}
+
+.socials{
+	position: absolute;
+	right: 120px;	
+}
+
+.socials a{
+	margin: 0 5px;
+	padding: 10px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #9c9c9c;
+	background-color:#e9e9e9;
+	border-radius: 50%;
+}
+
+.socials a:hover{
+	transition: all 0.5s;
+	background-color: #fff;
+	color:  #04af55;
+	border-radius: 5px;
+	cursor: pointer;
+}

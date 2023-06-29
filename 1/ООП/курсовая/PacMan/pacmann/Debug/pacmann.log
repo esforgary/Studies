@@ -1,0 +1,7 @@
+﻿  Behavior.cpp
+c:\users\stass\source\repos\pacmann\pacmann\behavior.cpp(13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Condition.cpp
+  Main.cpp
+  Motor.cpp
+  Создание кода...
+  pacmann.vcxproj -> C:\Users\stass\source\repos\pacmann\Debug\pacmann.exe

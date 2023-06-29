@@ -1,0 +1,68 @@
+body {
+    margin: 10px 300px;
+    border: 10px solid #f6c19c;
+    background-color: #fcdfb5;
+}
+.summary {
+    background: #fff;
+    padding: 20px;
+}
+
+header h3, header h6 {
+    color: grey;
+}
+
+.horisontal-division {
+    height: 2px;
+    background: #000;
+    margin: 0 5px 15px 0;
+}
+
+.vertical-division {
+    display: inline-block;
+    height: 720px;
+    width: 2px;
+    background: #000;
+    margin: 0 15px;
+}
+
+.avatar img {
+    height: 110px;
+    border-radius: 10%;
+    border: 4px solid grey;
+}
+
+.avatar {
+    position: absolute;
+	right: 25%;
+    top: 40px;
+}
+
+.location h6 {
+    display: inline-block;
+    margin-right: 30px;
+}
+
+main div h4 {
+    padding: 6px 0;
+    border-bottom: 3px solid rgb(220, 220, 220);
+}
+
+.hard-skills {
+    width: 600px;
+    display: inline-block;
+}
+
+.soft-skills {
+    display: inline-block;
+    width: 210px;
+    position: absolute;
+}
+
+.contacts p{
+    margin: 0;
+}
+
+.salary {
+    margin: 20px 0;
+}

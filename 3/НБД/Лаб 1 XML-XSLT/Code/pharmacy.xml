@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <pharmacy>
+    <name>Аптека Рецептика</name>
+    <address>Проспект Будівельників, 38</address>
+    <medicines>123</medicines>
+    <employee-count>4</employee-count>
+    <status>Відчинено</status>
+    <working-mode>Будні</working-mode>
+    <working-time>8:00 - 20:00</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>Аптека низьких цін</name>
+    <address>проспект Будівельників, 41/37</address>
+    <medicines>118</medicines>
+    <employee-count>3</employee-count>
+    <status>Відчинено</status>
+    <working-mode>Щоденно</working-mode>
+    <working-time>0:00 - 24:00</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>Міська аптека</name>
+    <address>вулиця Лісна, 1/1</address>
+    <medicines>156</medicines>
+    <employee-count>5</employee-count>
+    <status>Відчинено</status>
+    <working-mode>Будні</working-mode>
+    <working-time>9:00 - 19:30</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>«Народная аптека» №15</name>
+    <address>проспект Будівельників, 24</address>
+    <medicines>198</medicines>
+    <employee-count>0</employee-count>
+    <status>Зачинено</status>
+    <working-mode>Будні</working-mode>
+    <working-time>11:00 - 17:00</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>«Народная аптека» №42</name>
+    <address>проспект Будівельників, 38</address>
+    <medicines>324</medicines>
+    <employee-count>6</employee-count>
+    <status>Відчинено</status>
+    <working-mode>Будні</working-mode>
+    <working-time>11:00 - 17:00</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>Формула Здоров'я Аптека</name>
+    <address>проспект Будівельників, 36</address>
+    <medicines>112</medicines>
+    <employee-count>4</employee-count>
+    <status>Відчинено</status>
+    <working-mode>Будні</working-mode>
+    <working-time>9:00 - 20:00</working-time>
+  </pharmacy>
+  <pharmacy>
+    <name>Центральна аптека</name>
+    <address>проспект Будівельників, 39</address>
+    <medicines>136</medicines>
+    <employee-count>0</employee-count>
+    <status>Зачинено</status>
+    <working-mode>Щоденно</working-mode>
+    <working-time>0:00 - 24:00</working-time>
+  </pharmacy>
+</catalog>

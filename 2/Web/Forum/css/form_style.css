@@ -1,0 +1,19 @@
+form{
+	background-color: #1c1c1c;
+}
+
+p a{ 
+	color:  #343a40; 
+	text-decoration: none;
+	font-weight: bold;
+}
+
+a{	color: #04af00; }
+a:hover{	
+	color: #343a40;
+	text-decoration: none;
+}
+a:active{
+	color: #04af55
+}
+

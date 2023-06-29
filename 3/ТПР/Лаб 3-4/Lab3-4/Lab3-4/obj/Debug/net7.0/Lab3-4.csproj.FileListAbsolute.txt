@@ -1,0 +1,30 @@
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.exe
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.deps.json
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.runtimeconfig.json
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.pdb
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.csproj.AssemblyReference.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.AssemblyInfoInputs.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.AssemblyInfo.cs
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.csproj.CoreCompileInputs.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\refint\Lab3-4.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.pdb
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.genruntimeconfig.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab3-4\Lab3-4\obj\Debug\net7.0\ref\Lab3-4.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.exe
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.deps.json
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.runtimeconfig.json
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\bin\Debug\net7.0\Lab3-4.pdb
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.csproj.AssemblyReference.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.AssemblyInfoInputs.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.AssemblyInfo.cs
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.csproj.CoreCompileInputs.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\refint\Lab3-4.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.pdb
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\Lab3-4.genruntimeconfig.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 3-4\Lab3-4\Lab3-4\obj\Debug\net7.0\ref\Lab3-4.dll

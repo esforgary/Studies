@@ -1,0 +1,30 @@
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\bin\Debug\net7.0\Lab5.exe
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\bin\Debug\net7.0\Lab5.deps.json
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\bin\Debug\net7.0\Lab5.runtimeconfig.json
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\bin\Debug\net7.0\Lab5.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\bin\Debug\net7.0\Lab5.pdb
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.csproj.AssemblyReference.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfoInputs.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfo.cs
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\refint\Lab5.dll
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.pdb
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\Lab5.genruntimeconfig.cache
+C:\Проэкты (програмирование)\CSharp\ТПР\Lab5\Lab5\obj\Debug\net7.0\ref\Lab5.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\bin\Debug\net7.0\Lab5.exe
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\bin\Debug\net7.0\Lab5.deps.json
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\bin\Debug\net7.0\Lab5.runtimeconfig.json
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\bin\Debug\net7.0\Lab5.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\bin\Debug\net7.0\Lab5.pdb
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.csproj.AssemblyReference.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfoInputs.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.AssemblyInfo.cs
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\refint\Lab5.dll
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.pdb
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\Lab5.genruntimeconfig.cache
+C:\Users\stass\Desktop\ХНУРЭ 3\2\ТПР\Лаб 5\Lab5\Lab5\obj\Debug\net7.0\ref\Lab5.dll

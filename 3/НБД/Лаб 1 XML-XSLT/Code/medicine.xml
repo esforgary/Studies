@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <medicine>
+    <name>Стрепсілс</name>
+    <count>10 табл</count>
+    <shelf-life>1 рік</shelf-life>
+    <price>60 грн</price>
+  </medicine>
+  <medicine>
+    <name>Німесил</name>
+    <volume>200 мл</volume>
+    <shelf-life>6 місяців</shelf-life>
+    <price>40 грн</price>
+  </medicine>   
+  <medicine>
+   <name>Нафтізін</name>
+    <volume>100 мл</volume>
+    <shelf-life>6 місяців</shelf-life>
+    <price>90 грн</price>
+  </medicine>
+  <medicine>
+   <name>Орасепт</name>
+    <volume>400 мл</volume>
+    <shelf-life>1 рік</shelf-life>
+    <price>250 грн</price>
+  </medicine>
+  <medicine>
+    <name>Ергоферон</name>
+    <count>20 табл</count>
+    <shelf-life>3 роки</shelf-life>
+    <price>150 грн</price>
+  </medicine>
+  <medicine>
+    <name>Чорне вугілля</name>
+    <count>10 табл</count>
+    <shelf-life>2 роки</shelf-life>
+    <price>100 грн</price>
+  </medicine>
+  <medicine>
+    <name>Цитрамон</name>
+    <count>10 табл</count>
+    <shelf-life>1 рік</shelf-life>
+    <price>20 грн</price>
+  </medicine>
+  <medicine>
+   <name>Йод</name>
+    <volume>100 мл</volume>
+    <shelf-life>1 рік</shelf-life>
+    <price>60 грн</price>
+  </medicine>
+  <medicine>
+   <name>Перикис водньо</name>
+    <volume>250 мл</volume>
+    <shelf-life>2 роки</shelf-life>
+    <price>120 грн</price>
+  </medicine>
+  <medicine>
+   <name>Зеленка</name>
+    <volume>200 мл</volume>
+    <shelf-life>6 місяців</shelf-life>
+    <price>80 грн</price>
+  </medicine>
+  <medicine>
+    <name>Лоратадін</name>
+    <count>12 табл</count>
+    <shelf-life>3 місяці</shelf-life>
+    <price>165 грн</price>
+  </medicine>
+</catalog>

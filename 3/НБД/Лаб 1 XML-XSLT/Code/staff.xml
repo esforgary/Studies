@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+  <employee>
+    <job-title>Фармацевт</job-title>
+    <name>Иванов И. И.</name>
+    <age> 42</age>
+    <phone>380-66-66-666</phone>
+  </employee>
+  <employee>
+    <job-title>Прибиральниця</job-title>
+    <name>Петрова И. П.</name>
+    <age>50</age>
+    <phone>380-50-50-505</phone>
+  </employee>
+  <employee>
+    <job-title>Адміністратор</job-title>
+    <name>Шпак В. В.</name>
+    <age>54</age>
+    <phone>380-99-14-882</phone>
+  </employee>
+</catalog>
